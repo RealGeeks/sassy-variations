@@ -18,3 +18,29 @@ python sassy.py <input template> <output file> <var1> <var2> ...
 $name: {{ name }}
 $name: {{ name|default('yellow') }}
 ```
+
+# Miranda Variables 
+```
+acc: $accent;
+accHover: darken($accent, 10);
+mAcc: $muted-accent;
+act: $action;
+navBg: $navigation-background-color;
+navBgOpacity: $navigation-background-opacity;
+navLink: $navigation-link-color;
+navIconLink: $navigation-icon-color;
+searchAdvLink: $propertySearch-advancedSearchLink-color;
+primFootBg: $primaryBottomNavigation-background-color;
+primFootLink: $primaryBottomNavigation-link-color;
+secFootBg: $secondaryBottomNavigation-background-color;
+secFootHead: $secondaryBottomNavigation-header-color;
+secFootLink: $secondaryBottomNavigation-link-color;
+secFootLinkHov: $secondaryBottomNavigation-linkHover-color;
+footText: $footer-text-color;
+rgFootBg: $rgFooter-background-color;
+```
+
+## Miranda Req'd Variables 
+```
+acc, accHover, secFootBg, secFootLinkHover
+```
