@@ -588,8 +588,29 @@ sassy $DEST/_77-darknav-green-tan.scss \
   footText=#444
 echo "77-darknav-green-tan"
 
-echo "add 78"
-echo "add 79"
+sassy $DEST/_78-darknav-darknav-darksearch-white-blue.scss \
+  acc=#14a2f6 \
+  accHover=#0885cf \
+  mAcc=#637589 \
+  navBgOpacity=.65 \
+  navBg=#000 \
+  navLink=#fff \
+  navIconLink=#fff \
+  secFootBg=#04466d \
+  secFootLinkHov=#e6e6e6 
+echo "78-darknav-darknav-darksearch-white-blue"
+
+sassy $DEST/_79-darknav-darknav-darksearch-white-blue.scss \
+  acc=#14a2f6 \
+  accHover=#0885cf \
+  mAcc=#637589 \
+  navBgOpacity=.65 \
+  navBg=#000 \
+  navLink=#fff \
+  navIconLink=#fff \
+  secFootBg=#04466d \
+  secFootLinkHov=#e6e6e6 
+echo "79-darknav-darknav-darksearch-white-blue"
 
 sassy $DEST/_80-darknav-simple-blue-grey.scss \
   acc=#0885cf \
@@ -669,4 +690,12 @@ sassy $DEST/_84-darknav-teal-grey.scss \
   rgFootBg=#e0e0e0
 echo "84-darknav-teal-grey"
 
-echo "add 85"
+sassy $DEST/_85-white-blue-dark-landscape-header.scss \
+  acc=#14a2f6 \
+  accHover=#0885cf \
+  mAcc=#637589 \
+  searchHead=#000 \
+  secFootBg=#04466d \
+  secFootLinkHov=#e6e6e6 
+echo "85-white-blue-dark-landscape-header"
+
