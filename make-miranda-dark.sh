@@ -286,7 +286,7 @@ sassy $DEST/_58-darknav-white-blue-orange.scss \
   navBgOpacity=.65 \
   navBg=#000 \
   navLink=#fff \
-  navIconLink=#fff 
+  navIconLink=#fff \
   searchAdvLink=#637589 \
   secFootBg=#a8d3f4 \
   secFootLink=#286e8d \
@@ -305,12 +305,10 @@ sassy $DEST/_59-darknav-dark-blue-silver.scss \
   navLink=#fff \
   navIconLink=#fff \
   searchAdvLink=#637589 \
-  secFootBg=#a8d3f4 \
-  secFootLink=#1965b0 \
-  secFootLinkHov=#134b83 \
-  footText=#444 \
-  secFootBg=#a8d3f4 \
-  rgFootBg=#a8d3f4 
+  secFootBg=#fff \
+  secFootLink=#064089 \
+  secFootLinkHov=#1965b0 \
+  footText=#444 
 echo "59-darknav-dark-blue-silver"
 
 sassy $DEST/_60-darknav-white-rich-red.scss \

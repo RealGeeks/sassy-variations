@@ -320,13 +320,13 @@ sassy $DEST/_24-dark-blue-silver.scss \
   accHover=#134b83 \
   mAcc=#828282 \
   act=#064089 \
+  navLink=#064089 \
+  navIconLink=#064089 \
   searchAdvLink=#637589 \
-  secFootBg=#a8d3f4 \
-  secFootLink=#1965b0 \
-  secFootLinkHov=#134b83 \
-  footText=#444 \
-  secFootBg=#a8d3f4 \
-  rgFootBg=#a8d3f4 
+  secFootBg=#fff \
+  secFootLink=#064089 \
+  secFootLinkHov=#1965b0 \
+  footText=#444 
 echo "24-dark-blue-silver"
 
 sassy $DEST/_25-white-rich-red.scss \
