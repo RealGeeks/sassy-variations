@@ -37,7 +37,6 @@ searchAdvLink: $propertySearch-advancedSearchLink-color;
 primFootBg: $primaryBottomNavigation-background-color;
 primFootLink: $primaryBottomNavigation-link-color;
 secFootBg: $secondaryBottomNavigation-background-color;
-secFootHead: $secondaryBottomNavigation-header-color;
 secFootLink: $secondaryBottomNavigation-link-color;
 secFootLinkHov: $secondaryBottomNavigation-linkHover-color;
 footText: $footer-text-color;
@@ -65,6 +64,7 @@ sidebarLink: $sidebarContent-link-color;
 sidebarLinkHov: $sidebarContent-linkHover-color;
 botTop: $bottomNavigation-topBorder-color;
 botDiv: $bottomNavigation-divider-color;
+botHead: $*BottomNavigation-header-color;
 botLink: $*BottomNavigation-link-color;
 botLinkHov: $*BottomNavigation-linkHover-color;
 ```
