@@ -262,6 +262,7 @@ sassy $DEST/_23-red.scss \
   accHover=#810101 \
   mAcc=#B40101 \
   act=#B40101 \
+  botTop=#333 \
   sideBg=#B40101 
 echo "23-red"
 
@@ -447,4 +448,394 @@ sassy $DEST/_40-orange-blue.scss \
   botTop=#b3b3b3 \
   sideBg=#EC8600 
 echo "40-orange-blue"
+
+sassy $DEST/_41-orange-black.scss \
+  acc=#EC8600 \
+  accHover=#b96900 \
+  mAcc=#5f5f5f \
+  act=#0dac02 \
+  searchButton=#EC8600 \
+  botTop=#b3b3b3 \
+  sideBg=#EC8600 
+echo "41-orange-black"
+
+sassy $DEST/_42-orange-black-simple.scss \
+  acc=#EC8600 \
+  accHover=#b96900 \
+  mAcc=#5f5f5f \
+  act=#0dac02 \
+  searchButton=#EC8600 \
+  botTop=#b3b3b3 \
+  sideBg=#fff 
+echo "42-orange-black-simple"
+
+sassy $DEST/_43-brown-simple.scss \
+  acc=#a45d0e \
+  accHover=#75420a \
+  mAcc=#562E18 \
+  act=#0dac02 \
+  searchButton=#A96500 \
+  bodyHead=#8D1114 \
+  sideBg=#fff 
+echo "43-brown-simple"
+
+sassy $DEST/_44-light-brown.scss \
+  acc=#a45d0e \
+  accHover=#75420a \
+  mAcc=#562E18 \
+  act=#0dac02 \
+  navLink=#845600 \
+  navIconLink=#845600 \
+  searchButton=#0A4064 \
+  bodyHead=#562E18 \
+  sidebarHead=#562E18 \
+  sideBg=#DAC694 
+echo "44-light-brown"
+
+sassy $DEST/_45-dark-browns.scss \
+  acc=#a45d0e \
+  accHover=#75420a \
+  mAcc=#562E18 \
+  act=#0dac02 \
+  searchButton=#A96500 \
+  bodyHead=#8D1114 \
+  sideBg=#562E18 
+echo "45-dark-browns"
+
+sassy $DEST/_46-desert-browns.scss \
+  acc=#a45d0e \
+  accHover=#75420a \
+  mAcc=#562E18 \
+  act=#0dac02 \
+  searchButton=#A96500 \
+  bodyHead=#8D1114 \
+  sidebarHead=#8D1114 \
+  sideBg=#F1EABC 
+echo "45-dark-browns"
+
+sassy $DEST/_47-tan-rich-red.scss \
+  acc=#810101 \
+  accHover=#4e0101 \
+  mAcc=#666 \
+  act=#0dac02 \
+  navLink=#560003 \
+  navIconLink=#560003 \
+  searchButton=#560003 \
+  botTop=#333 \
+  sideBg=#DBD2BB 
+echo "47-tan-rich-red"
+
+sassy $DEST/_48-tan-olive.scss \
+  acc=#3E4C5F \
+  accHover=#2a3340 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  searchButton=#59791A \
+  sideBg=#ECEBE0
+echo "48-tan-olive"
+
+sassy $DEST/_49-tan-mariner.scss \
+  acc=#3D6596 \
+  accHover=#2e4d72 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  searchButton=#DE730D \
+  sideBg=#dfd5bd
+echo "49-tan-mariner"
+
+sassy $DEST/_50-tan-green.scss \
+  acc=#0D8D3C \
+  accHover=#095e28 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#0D8D3C \
+  navLinkHov=#16ea64 \
+  navIconLink=#0D8D3C \
+  navIconLinkHov=#16ea64 \
+  searchButton=#DE730D \
+  sideBg=#efebdf
+echo "50-tan-green"
+
+sassy $DEST/_51-tan-burnt-maroon.scss \
+  acc=#400000 \
+  accHover=#730000 \
+  mAcc=#400000 \
+  act=#0dac02 \
+  navLinkHov=#730000 \
+  navIconLinkHov=#730000 \
+  searchButton=#400000 \
+  sideBg=#DAD0B8 
+echo "51-tan-burnt-maroon"
+
+sassy $DEST/_52-light-grey.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#67717B \
+  navIconLink=#67717B \
+  botTop=#c6c6c6 \
+  sideBg=#f2f2f2 
+echo "52-light-grey"
+
+sassy $DEST/_53-light-grey-red.scss \
+  acc=#B40101 \
+  accHover=#810101 \
+  mAcc=#B40101 \
+  act=#B40101 \
+  botTop=#333 \
+  sideBg=#f2f2f2 
+echo "53-light-grey-red"
+
+sassy $DEST/_54-light-grey-purple.scss \
+  acc=#490E6F \
+  accHover=#2b0842 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#490E6F \
+  navLinkHov=#2b0842 \
+  navIconLink=#490E6F \
+  navIconLinkHov=#2b0842 \
+  sideBg=#f2f2f2 
+echo "54-light-grey-purple"
+
+sassy $DEST/_55-light-grey-orange.scss \
+  acc=#EC8600 \
+  accHover=#b96900 \
+  mAcc=#5f5f5f \
+  act=#0dac02 \
+  navLink=#67717B \
+  navIconLink=#67717B \
+  searchButton=#EC8600 \
+  botTop=#67717B \
+  sideBg=#f2f2f2 
+echo "55-light-grey-orange"
+
+sassy $DEST/_56-light-grey-green.scss \
+  acc=#2f6628 \
+  accHover=#1e411a \
+  mAcc=#2f6628 \
+  act=#0dac02 \
+  sideBg=#f2f2f2 
+echo "56-light-grey-green"
+
+sassy $DEST/_57-light-grey-cabarnet.scss \
+  acc=#572648 \
+  accHover=#34162b \
+  mAcc=#572648 \
+  act=#0dac02 \
+  navLink=#572648 \
+  searchAdvLink=#572648 \
+  bodyHead=#572648 \
+  bodyLink=#800080 \
+  sidebarLink=#800080 \
+  botHead=#572648 \
+  sideBg=#f2f2f2 
+echo "57-light-grey-cabarnet"
+
+sassy $DEST/_58-light-grey-blue.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#286e8d \
+  act=#0dac02 \
+  navLinkHov=#1d4f65 \
+  navIconLinkHov=#1d4f65 \
+  searchButton=#175977 \
+  botTop=#286e8d \
+  sideBg=#f2f2f2 
+echo "58-light-grey-blue"
+
+sassy $DEST/_59-grey.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  searchButton=#67717B \
+  botTop=#286e8d \
+  sideBg=#c6c6c6 
+echo "59-grey"
+
+sassy $DEST/_60-grey-red.scss \
+  acc=#B40101 \
+  accHover=#810101 \
+  mAcc=#B40101 \
+  act=#B40101 \
+  botTop=#333 \
+  sideBg=#c6c6c6 
+echo "60-grey-red"
+
+sassy $DEST/_61-grey-purple.scss \
+  acc=#490E6F \
+  accHover=#2b0842 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#490E6F \
+  navLinkHov=#2b0842 \
+  navIconLink=#490E6F \
+  navIconLinkHov=#2b0842 \
+  sideBg=#e9e9e9 
+echo "61-grey-purple"
+
+sassy $DEST/_62-grey-orange.scss \
+  acc=#EC8600 \
+  accHover=#b96900 \
+  mAcc=#5f5f5f \
+  act=#0dac02 \
+  navLink=#67717B \
+  navIconLink=#67717B \
+  searchButton=#EC8600 \
+  botTop=#67717B \
+  sideBg=#c6c6c6 
+echo "62-grey-orange"
+
+sassy $DEST/_63-grey-green.scss \
+  acc=#2f6628 \
+  accHover=#1e411a \
+  mAcc=#2f6628 \
+  act=#0dac02 \
+  sideBg=#c6c6c6 
+echo "63-grey-green"
+
+sassy $DEST/_64-grey-cabarnet.scss \
+  acc=#572648 \
+  accHover=#34162b \
+  mAcc=#572648 \
+  act=#0dac02 \
+  navLink=#572648 \
+  searchAdvLink=#572648 \
+  bodyHead=#572648 \
+  bodyLink=#800080 \
+  sidebarLink=#800080 \
+  botHead=#572648 \
+  sideBg=#c6c6c6 
+echo "64-grey-cabarnet"
+
+sassy $DEST/_65-grey-blue.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#286e8d \
+  act=#0dac02 \
+  navLinkHov=#1d4f65 \
+  navIconLinkHov=#1d4f65 \
+  searchButton=#175977 \
+  botTop=#286e8d \
+  sideBg=#c6c6c6 
+echo "65-grey-blue"
+
+sassy $DEST/_66-dark-grey.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#67717B \
+  navIconLink=#67717B \
+  searchButton=#67717B \
+  botTop=#c6c6c6 \
+  sideBg=#67717B 
+echo "66-dark-grey"
+
+sassy $DEST/_67-dark-grey-red.scss \
+  acc=#B40101 \
+  accHover=#810101 \
+  mAcc=#B40101 \
+  act=#B40101 \
+  botTop=#333 \
+  sideBg=#67717B 
+echo "67-dark-grey-red"
+
+sassy $DEST/_68-dark-grey-purple.scss \
+  acc=#490E6F \
+  accHover=#2b0842 \
+  mAcc=#637589 \
+  act=#0dac02 \
+  navLink=#490E6F \
+  navLinkHov=#2b0842 \
+  navIconLink=#490E6F \
+  navIconLinkHov=#2b0842 \
+  sideBg=#67717B 
+echo "68-dark-grey-purple"
+
+sassy $DEST/_69-dark-grey-orange.scss \
+  acc=#EC8600 \
+  accHover=#b96900 \
+  mAcc=#5f5f5f \
+  act=#0dac02 \
+  navLink=#67717B \
+  navIconLink=#67717B \
+  searchButton=#EC8600 \
+  botTop=#67717B \
+  sideBg=#67717B 
+echo "69-dark-grey-orange"
+
+sassy $DEST/_70-dark-grey-green.scss \
+  acc=#2f6628 \
+  accHover=#1e411a \
+  mAcc=#2f6628 \
+  act=#0dac02 \
+  sideBg=#67717B 
+echo "70-dark-grey-green"
+
+sassy $DEST/_71-dark-grey-cabarnet.scss \
+  acc=#572648 \
+  accHover=#34162b \
+  mAcc=#572648 \
+  act=#0dac02 \
+  navLink=#572648 \
+  searchAdvLink=#572648 \
+  bodyHead=#572648 \
+  bodyLink=#800080 \
+  sidebarLink=#800080 \
+  botHead=#572648 \
+  sideBg=#67717B 
+echo "71-dark-grey-cabarnet"
+
+sassy $DEST/_72-dark-grey-blue.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#286e8d \
+  act=#0dac02 \
+  navLinkHov=#1d4f65 \
+  navIconLinkHov=#1d4f65 \
+  searchButton=#175977 \
+  botTop=#286e8d \
+  sideBg=#67717B 
+echo "72-dark-grey-blue"
+
+sassy $DEST/_73-black-red.scss \
+  acc=#B40101 \
+  accHover=#810101 \
+  mAcc=#B40101 \
+  act=#B40101 \
+  botTop=#333 \
+  sideBg=#000 
+echo "73-black-red"
+
+sassy $DEST/_74-black-red-grey.scss \
+  acc=#B40101 \
+  accHover=#810101 \
+  mAcc=#666 \
+  act=#B40101 \
+  botTop=#333 \
+  sideBg=#000 
+echo "74-black-red-grey"
+
+sassy $DEST/_75-black-green.scss \
+  acc=#2f6628 \
+  accHover=#1e411a \
+  mAcc=#2f6628 \
+  act=#0dac02 \
+  sideBg=#000 
+echo "75-black-green"
+
+sassy $DEST/_76-black-blue.scss \
+  acc=#286e8d \
+  accHover=#1d4f65 \
+  mAcc=#286e8d \
+  act=#0dac02 \
+  navLinkHov=#1d4f65 \
+  navIconLinkHov=#1d4f65 \
+  searchButton=#175977 \
+  botTop=#286e8d \
+  sideBg=#000 
+echo "76-black-blue"
 
