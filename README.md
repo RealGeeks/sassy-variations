@@ -44,7 +44,28 @@ footText: $footer-text-color;
 rgFootBg: $rgFooter-background-color;
 ```
 
-## Miranda Req'd Variables 
+## Molly Variables
 ```
-acc, accHover, secFootBg, secFootLinkHover
+acc: $accent;
+accHover: darken($accent, 10);
+mAcc: $muted-accent;
+act: $action;
+sideBg: $side-background-color;
+navLink: $navigation-link-color; 
+navLinkHov: $navigation-linkHover-color;
+navIconLink: $navigation-icon-color;
+navIconLinkHov: $navigation-iconHover-color;
+searchButton: $propertySearch-searchButtonBackground-color;
+searchAdvLink: $propertySearch-advancedSearchLink-color;
+bodyHead: $bodyContent-header-color;
+bodyLink: $bodyContent-link-color;
+bodyLinkHov: $bodyContent-linkHover-color;
+sidebarHead: $sidebarContent-header-color;
+sidebarLink: $sidebarContent-link-color;
+sidebarLinkHov: $sidebarContent-linkHover-color;
+botTop: $bottomNavigation-topBorder-color;
+botDiv: $bottomNavigation-divider-color;
+botLink: $*BottomNavigation-link-color;
+botLinkHov: $*BottomNavigation-linkHover-color;
 ```
+
