@@ -598,7 +598,7 @@ sassy $DEST/_78-darknav-darknav-darksearch-white-blue.scss \
   secFootLinkHov=#e6e6e6 
 echo "78-darknav-darknav-darksearch-white-blue"
 
-sassy $DEST/_79-darknav-darknav-darksearch-white-blue.scss \
+sassy $DEST/_79-darknav-darknav-darksearch-white-brown \
   acc=#14a2f6 \
   accHover=#0885cf \
   mAcc=#637589 \
